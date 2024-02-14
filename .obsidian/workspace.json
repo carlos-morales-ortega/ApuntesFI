@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/02.Comando básicos (switch-router).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCNA/02.Comando básicos (switch-router).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CCNA/02.Comando básicos (switch-router).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA/02.Comando básicos (switch-router).md"
+                "file": "README.md"
               }
             }
           }
@@ -146,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc921b272e7804a2",
+  "active": "cabe1d2db2bf4ffd",
   "lastOpenFiles": [
+    "Criptografía/03.Cryptography.md",
     "README.md",
+    "CCNA/02.Comando básicos (switch-router).md",
     "LICENSE",
     "Criptografía/Criptosistemas clásicos.md",
-    "Criptografía/03.Cryptography.md",
-    "CCNA/02.Comando básicos (switch-router).md",
     "CCNA",
     "Criptografía",
     "Tarea 1.pkt~",
