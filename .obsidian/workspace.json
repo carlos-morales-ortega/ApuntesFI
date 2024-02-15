@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Criptografía/04. Secret Key or Symmetric Cryptography.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Criptografía/04. Secret Key or Symmetric Cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Criptografía/04. Secret Key or Symmetric Cryptography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Criptografía/04. Secret Key or Symmetric Cryptography.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "cabe1d2db2bf4ffd",
   "lastOpenFiles": [
-    "Criptografía/03.Cryptography.md",
+    "Criptografía/img/clasificacion.png",
+    "Criptografía/04. Secret Key or Symmetric Cryptography.md",
+    "Criptografía/img",
+    "Criptografía/03.Criptosistemas clásicos.md",
+    "Criptografía/02.Cryptography.md",
     "README.md",
     "CCNA/02.Comando básicos (switch-router).md",
     "LICENSE",
-    "Criptografía/Criptosistemas clásicos.md",
     "CCNA",
     "Criptografía",
     "Tarea 1.pkt~",
