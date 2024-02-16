@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CCNA/03.Modelo OSI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CCNA/03.Modelo OSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "CCNA/03.Modelo OSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "CCNA/03.Modelo OSI.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "cabe1d2db2bf4ffd",
   "lastOpenFiles": [
-    "Criptografía/03.Cryptography.md",
-    "README.md",
     "CCNA/02.Comando básicos (switch-router).md",
-    "LICENSE",
+    "CCNA/03.Modelo OSI.md",
+    "README.md",
     "Criptografía/Criptosistemas clásicos.md",
+    "Criptografía/03.Cryptography.md",
+    "LICENSE",
     "CCNA",
     "Criptografía",
     "Tarea 1.pkt~",
