@@ -9,4 +9,5 @@ Apuntes realizados en la FI
 	3. `git Push`, se suben los cambios al repositorio.
 
 Se hace una prueba editando el archivo README. (Usando *Commit all changes*)
-Nuevamente
+
+Ahora se hacen cambios desde linux 
