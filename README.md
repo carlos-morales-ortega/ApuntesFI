@@ -11,3 +11,6 @@ Apuntes realizados en la FI
 Se hace una prueba editando el archivo README. (Usando *Commit all changes*)
 
 Ahora se hacen cambios desde linux 
+#Tema2 
+# Titulo
+escribes escribes **negritas** sigues sgiegs *cursiva* 
