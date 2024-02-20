@@ -10,7 +10,13 @@ Apuntes realizados en la FI
 
 Se hace una prueba editando el archivo README. (Usando *Commit all changes*)
 
-Ahora se hacen cambios desde linux 
-#Tema2 
-# Titulo
-escribes escribes **negritas** sigues sgiegs *cursiva* 
+## Pasos para subir usando terminal 
+
+#### Desde termux, terminal y git bash
+1. Hacer ``git pull`` siempre
+2. Se sugiere hacer ``git status``
+3. ``git add .``
+4. ``git commit -m "Titulo mensaje" -m "Cuero mensaje (opcional)"
+5. ``git push``
+	1. User: 
+	2. Pass: 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
