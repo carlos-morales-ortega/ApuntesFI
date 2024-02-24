@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b827e94e7c0d5e2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tareas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Tareas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Tareas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Tareas.md"
           }
         }
       }
@@ -146,11 +158,14 @@
   },
   "active": "9d4b512ff640ac2b",
   "lastOpenFiles": [
-    "Prueba/Teclado.md",
     "README.md",
+    "Tareas.md",
+    "Untitled 1",
+    "Finanzas",
+    "CCNA/03.Modelo OSI.md",
     "CCNA/02.Comando básicos (switch-router).md",
     "IA/00.IA.md",
-    "CCNA/03.Modelo OSI.md",
+    "Prueba/Teclado.md",
     "Prueba"
   ]
 }

@@ -1,0 +1,6 @@
+- [ ] Finanzas calcular nuestra inflación
+- [ ] Finanzas Podcast
+- [ ] Exámenes CCNA
+- [ ] Práctica CCNA
+- [ ] Reporte y previo Micros
+- [ ] Criptografía 
