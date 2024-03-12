@@ -2,5 +2,6 @@
 - [ ] Finanzas Podcast
 - [ ] Exámenes CCNA
 - [ ] Práctica CCNA
+	- [ ] 192.168.21.0/24
 - [ ] Reporte y previo Micros
-- [ ] Criptografía 
+- [x] Criptografía 
