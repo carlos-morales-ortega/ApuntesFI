@@ -26,3 +26,4 @@ Instrumentos financieros que derivan de otros llamados subyacentes. Su principal
 
 *Mercado de divisas o de tipos de cambio*
 Mercado donde se intercambian las divisas.
+
