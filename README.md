@@ -18,5 +18,4 @@ Se hace una prueba editando el archivo README. (Usando *Commit all changes*)
 3. ``git add .``
 4. ``git commit -m "Titulo mensaje" -m "Cuero mensaje (opcional)"
 5. ``git push``
-	1. User: 
-	2. Pass: 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
+	
